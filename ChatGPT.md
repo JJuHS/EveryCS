@@ -38,7 +38,7 @@ ChatGPT는 대화형 AI 모델로, GPT(Generative Pre-trained Transformer)라는
 
 ### 2.2 ChatGPT 인터페이스
 
-<img src='./chat-gpt-main.png'/>
+<img src='./imgs/chat-gpt-main.png'/>
 1. 대화창 : 사용자와 ChatGPT간의 대화가 이루어지는 곳
 2. 입력창 : 사용자의 질문 혹은 명령을 입력하는 곳
 3. 새 대화 시작 : 새로운 대화를 시작하는 버튼
