@@ -14,6 +14,10 @@
 
 ### 1-6. [이분탐색과 투포인터](./algorithm/binary_search_and_two_pointer.md)
 
+### 1-7. [연결리스트(Linked List)](./algorithm//linked_list.md)
+
+### 1-8. [다익스트라(Dijkstra)](./algorithm/dijkstra.md)
+
 ## 2. [Computer Science](./ComputerScience/)
 
 ### 2-1. DB
@@ -52,7 +56,14 @@
 
 #### 2-3-4. [Network 04 - Http](./ComputerScience/network04.md)
 
+#### 2-4. Hardware
 
+#### 2-4-1. [Hardware 01 - 컴퓨터 구조](./ComputerScience/hardware01.md)
 
+#### 2-4-2. [Hardware 02 - 컴퓨터가 이해하는 정보](./ComputerScience/hardware02.md)
 
+#### 2-4-3. [Hardware 03 - CPU](./ComputerScience/hardware03.md)
 
+#### 2-4-4. [Hardware 04 - 메모리](./ComputerScience/hardware04.md)
+
+#### 2-4-5. [Hardware 05 - 보조기억장치와 입출력장치치](./ComputerScience/hardware05.md)

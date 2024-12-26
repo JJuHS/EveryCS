@@ -35,3 +35,16 @@
 ### 3-3. [Network 03 - 네트워크 계층과 전송 계층](./network03.md)
 
 ### 3-4. [Network 04 - HTTP](./network04.md)
+
+## 4. Hardware
+
+
+#### 4-1. [Hardware 01 - 컴퓨터 구조](./hardware01.md)
+
+#### 4-2. [Hardware 02 - 컴퓨터가 이해하는 정보](./hardware02.md)
+
+#### 4-3. [Hardware 02 - CPU](./hardware03.md)
+
+#### 4-4. [Hardware 03 - 메모리](./hardware04.md)
+
+#### 4-5. [Hardware 04 - 보조기억장치와 입출력장치치](./hardware05.md)
