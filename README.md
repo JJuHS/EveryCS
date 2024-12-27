@@ -16,7 +16,9 @@
 
 ### 1-7. [연결리스트(Linked List)](./algorithm//linked_list.md)
 
-### 1-8. [다익스트라(Dijkstra)](./algorithm/dijkstra.md)
+### 1-8. [다익스트라(Dijkstra)](./algorithm/dijkstra.md)  
+
+### 1-9. [우선순위 큐(Priority Queue)](./priority_queue.md)  
 
 ## 2. [Computer Science](./ComputerScience/)
 

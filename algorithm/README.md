@@ -12,6 +12,8 @@
 
 ## 6. [이분탐색과 투포인터](./binary_search_and_two_pointer.md)
 
-### 1-7. [연결리스트(Linked List)](./linked_list.md)
+## 7. [연결리스트(Linked List)](./linked_list.md)
 
-### 1-8. [다익스트라(Dijkstra)](./dijkstra.md)
+## 8. [다익스트라(Dijkstra)](./dijkstra.md)
+
+## 9. [우선순위 큐(Priority Queue)](./priority_queue.md)
